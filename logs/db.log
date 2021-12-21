@@ -1,0 +1,365 @@
+[2021-11-05T16:17:21.057] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T16:17:30.559] [INFO] db - Executing (default): SELECT `id`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2021-11-05T16:19:59.936] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T16:20:12.380] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T16:20:25.860] [INFO] db - Executing (default): SELECT `id`, `name`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2021-11-05T16:21:50.914] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T16:21:52.172] [INFO] db - Executing (default): SELECT `id`, `name`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2021-11-05T16:23:52.315] [INFO] db - Executing (default): SELECT `id`, `name`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2021-11-05T16:24:00.723] [INFO] db - Executing (default): SELECT `id`, `name`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2021-11-05T16:24:01.506] [INFO] db - Executing (default): SELECT `id`, `name`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2021-11-05T16:24:02.223] [INFO] db - Executing (default): SELECT `id`, `name`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2021-11-05T16:24:03.060] [INFO] db - Executing (default): SELECT `id`, `name`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2021-11-05T16:24:24.329] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T16:24:28.540] [INFO] db - Executing (default): SELECT `id`, `name`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2021-11-05T16:25:03.604] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T16:25:03.760] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2021-11-05T16:29:00.724] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2021-11-05T17:29:27.231] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T17:29:48.765] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T17:34:11.433] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T17:40:54.454] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T17:41:29.709] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T17:45:51.238] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T17:46:50.286] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T17:47:48.680] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T17:48:52.641] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T17:49:23.257] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T17:49:26.980] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T17:52:25.568] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T17:52:48.135] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T17:56:26.238] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T17:56:56.303] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T17:57:55.204] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T18:32:19.931] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T18:35:14.553] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T18:35:18.335] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T18:35:41.770] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T18:36:16.801] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T18:36:34.019] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T18:37:36.000] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T18:38:45.651] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T18:40:22.279] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T18:43:21.064] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T18:45:27.922] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T18:46:29.515] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T18:49:08.411] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T18:49:27.517] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T18:49:52.928] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T18:52:41.005] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T19:01:47.151] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T19:02:06.608] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T19:02:28.984] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T19:06:22.940] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T19:07:55.286] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T19:08:30.349] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T19:08:50.149] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T19:10:00.460] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T19:16:08.632] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T19:16:08.633] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2021-11-05T19:19:49.896] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T19:19:49.897] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2021-11-05T19:22:21.042] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-05T19:22:21.043] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2021-11-08T09:33:34.759] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T09:49:01.656] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T09:49:47.113] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T10:07:03.345] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T10:20:28.914] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T10:25:59.946] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T10:26:15.206] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T10:26:21.504] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T10:30:36.711] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T10:31:25.807] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T10:57:07.612] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T10:59:45.213] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T11:17:50.839] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T11:18:03.547] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T11:19:17.121] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2021-11-08T11:19:57.551] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T11:21:18.037] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T11:21:26.304] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T11:25:20.770] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T11:25:27.815] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:14:39.867] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:15:18.743] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:15:30.319] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:16:31.079] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:16:37.100] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:18:06.134] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:18:43.784] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:20:01.595] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:20:31.847] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:21:25.440] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:21:57.367] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:24:43.870] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:25:39.004] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:25:48.050] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:26:20.799] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:27:13.720] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:27:19.396] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:27:55.270] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:28:43.858] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:28:47.619] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:28:47.774] [INFO] db - Executing (default): SELECT count(*) AS `count` FROM `Admins` AS `Admin`;
+[2021-11-08T14:28:47.782] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 0, 15;
+[2021-11-08T14:31:09.330] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:31:52.174] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:33:20.381] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:33:35.795] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:33:55.179] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:33:56.764] [INFO] db - Executing (default): SELECT count(*) AS `count` FROM `Admins` AS `Admin`;
+[2021-11-08T14:33:56.770] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 0, 15;
+[2021-11-08T14:35:57.478] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:36:00.972] [INFO] db - Executing (default): SELECT count(*) AS `count` FROM `Admins` AS `Admin`;
+[2021-11-08T14:36:00.977] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 0, 15;
+[2021-11-08T14:36:21.788] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:36:28.514] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:38:09.630] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T14:39:23.909] [INFO] db - Executing (default): SELECT count(*) AS `count` FROM `Admins` AS `Admin`;
+[2021-11-08T14:39:23.909] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 0, 15;
+[2021-11-08T14:39:27.695] [INFO] db - Executing (default): SELECT count(*) AS `count` FROM `Admins` AS `Admin`;
+[2021-11-08T14:39:27.695] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 0, 15;
+[2021-11-08T14:59:08.396] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T15:00:45.437] [INFO] db - Executing (default): SELECT count(*) AS `count` FROM `Admins` AS `Admin`;
+[2021-11-08T15:00:45.438] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 0, 15;
+[2021-11-08T15:00:51.319] [INFO] db - Executing (default): SELECT count(*) AS `count` FROM `Admins` AS `Admin`;
+[2021-11-08T15:00:51.319] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 0, 15;
+[2021-11-08T15:04:49.945] [INFO] db - Executing (default): SELECT count(*) AS `count` FROM `Admins` AS `Admin`;
+[2021-11-08T15:04:49.945] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 0, 15;
+[2021-11-08T15:27:23.109] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2021-11-08T16:58:47.499] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T17:00:32.287] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T17:01:43.946] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T17:02:03.785] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T17:02:26.405] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T17:03:31.576] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T17:04:06.960] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T17:05:57.320] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T17:11:49.794] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T17:13:02.121] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T17:13:06.470] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T17:14:56.185] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T17:15:06.814] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T17:16:50.489] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T17:17:37.642] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T17:18:09.489] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T17:21:01.470] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T17:21:16.396] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T17:26:52.189] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T17:26:57.673] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T18:03:14.739] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T18:06:11.737] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T18:06:27.891] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T18:06:55.278] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T18:07:02.503] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T18:14:19.960] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T18:17:31.114] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T18:19:23.591] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T18:19:30.463] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-08T18:20:16.436] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T09:10:52.549] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T09:12:00.585] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T09:17:49.689] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T09:20:32.896] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T09:21:33.902] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T09:23:34.103] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T09:24:44.584] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T09:24:53.501] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T09:25:28.594] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T09:27:12.107] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T09:27:24.994] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T09:28:24.498] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T09:37:55.813] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T09:38:20.355] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T09:56:13.337] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T10:01:06.164] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T10:03:34.124] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T10:05:42.590] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T10:09:47.258] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T10:10:03.054] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T10:13:43.136] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T10:13:51.491] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T10:14:09.767] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T10:15:41.711] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T10:17:04.287] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T10:18:32.699] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T10:18:48.806] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T10:24:14.556] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T10:24:44.364] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T10:26:00.136] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T10:26:35.941] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T10:28:18.721] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T10:30:31.494] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T10:46:42.884] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T10:47:01.946] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T10:51:19.070] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T10:57:44.455] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T10:58:17.074] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:00:17.065] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:02:46.226] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:08:59.457] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:10:33.583] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:11:14.941] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:13:36.135] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:15:29.118] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:15:45.842] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:15:47.562] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`name` = '小刘' AND `Admin`.`age` = '20';
+[2021-11-09T11:16:19.299] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`name` = '小明' AND `Admin`.`age` = '18';
+[2021-11-09T11:18:06.170] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:18:17.070] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:18:56.548] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:19:24.129] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:19:46.189] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:20:13.824] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:20:55.476] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:21:15.739] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:21:54.724] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:22:17.562] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin`;
+[2021-11-09T11:22:56.676] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:23:51.140] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:24:00.771] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`name` = '小明' AND `Admin`.`age` = '19';
+[2021-11-09T11:24:00.801] [INFO] db - Executing (default): INSERT INTO `Admins` (`id`,`name`,`age`,`created_at`,`updated_at`) VALUES (DEFAULT,?,?,?,?);
+[2021-11-09T11:27:31.548] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:27:36.639] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`name` = '小明' AND `Admin`.`age` = '19';
+[2021-11-09T11:30:27.182] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:34:29.991] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:35:08.389] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:46:04.659] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:47:09.699] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:48:02.821] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:48:29.853] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`name` = '小明' AND `Admin`.`age` = '19';
+[2021-11-09T11:48:29.860] [INFO] db - Executing (default): INSERT INTO `Admins` (`id`,`name`,`age`,`created_at`,`updated_at`) VALUES (DEFAULT,?,?,?,?);
+[2021-11-09T11:49:05.928] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T11:49:05.928] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`name` = '小明' AND `Admin`.`age` = '19';
+[2021-11-09T11:53:58.559] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`name` = '小明' AND `Admin`.`age` = '19';
+[2021-11-09T11:53:58.565] [INFO] db - Executing (default): INSERT INTO `Admins` (`id`,`name`,`age`,`created_at`,`updated_at`) VALUES (DEFAULT,?,?,?,?);
+[2021-11-09T11:54:19.112] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`name` = '小明' AND `Admin`.`age` = '19';
+[2021-11-09T11:55:01.260] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`name` = '小刘' AND `Admin`.`age` = '20';
+[2021-11-09T11:55:01.261] [INFO] db - Executing (default): INSERT INTO `Admins` (`id`,`name`,`age`,`created_at`,`updated_at`) VALUES (DEFAULT,?,?,?,?);
+[2021-11-09T12:03:40.243] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`name` = '小花' AND `Admin`.`age` = '20';
+[2021-11-09T12:03:40.245] [INFO] db - Executing (default): INSERT INTO `Admins` (`id`,`name`,`age`,`created_at`,`updated_at`) VALUES (DEFAULT,?,?,?,?);
+[2021-11-09T13:46:39.500] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T13:46:46.513] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T13:47:03.398] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T13:47:17.742] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = '小花';
+[2021-11-09T13:47:17.815] [INFO] db - Executing (default): INSERT INTO `Admins` (`id`,`name`,`age`,`created_at`,`updated_at`) VALUES (DEFAULT,?,?,?,?);
+[2021-11-09T13:48:14.706] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T13:48:23.423] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = '小花';
+[2021-11-09T13:48:23.430] [INFO] db - Executing (default): INSERT INTO `Admins` (`id`,`name`,`age`,`created_at`,`updated_at`) VALUES (DEFAULT,?,?,?,?);
+[2021-11-09T13:49:29.453] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T13:49:32.950] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = '小花';
+[2021-11-09T13:49:32.957] [INFO] db - Executing (default): INSERT INTO `Admins` (`id`,`name`,`age`,`created_at`,`updated_at`) VALUES (DEFAULT,?,?,?,?);
+[2021-11-09T13:52:02.092] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T13:52:08.300] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`name` = '小花' LIMIT 1;
+[2021-11-09T13:52:42.415] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T13:54:36.224] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T13:55:23.599] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T13:57:10.388] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T14:10:05.162] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T14:11:35.869] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T14:12:57.654] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T14:13:04.313] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T14:13:04.890] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`name` = '小花' LIMIT 1;
+[2021-11-09T14:13:08.666] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`name` = '小花' LIMIT 1;
+[2021-11-09T14:15:03.077] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T14:15:09.379] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T14:15:19.439] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`name` = '小花' LIMIT 1;
+[2021-11-09T14:15:20.566] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`name` = '小花' LIMIT 1;
+[2021-11-09T14:16:05.577] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T14:22:54.138] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T14:23:36.057] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T14:23:45.933] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T14:26:46.286] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T14:27:40.958] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T14:28:14.942] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T14:28:50.291] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T14:45:23.638] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T14:49:32.428] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T14:52:17.925] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T14:53:48.887] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T14:54:23.589] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T14:54:56.728] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T14:55:36.629] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T14:56:39.119] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T14:57:29.837] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T14:57:43.152] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T14:58:50.726] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = '1';
+[2021-11-09T14:58:50.763] [INFO] db - Executing (default): UPDATE `Admins` SET `name`=?,`age`=?,`id`=?,`updated_at`=? WHERE `id` = ?
+[2021-11-09T14:59:44.266] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = '6';
+[2021-11-09T14:59:44.269] [INFO] db - Executing (default): UPDATE `Admins` SET `name`=?,`age`=?,`id`=?,`updated_at`=? WHERE `id` = ?
+[2021-11-09T14:59:46.967] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = '6';
+[2021-11-09T14:59:46.968] [INFO] db - Executing (default): UPDATE `Admins` SET `name`=?,`age`=?,`id`=?,`updated_at`=? WHERE `id` = ?
+[2021-11-09T15:00:23.257] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = '9';
+[2021-11-09T15:00:31.908] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = '9';
+[2021-11-09T15:01:24.576] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = '5';
+[2021-11-09T15:01:25.609] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = '5';
+[2021-11-09T15:02:19.278] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = '1';
+[2021-11-09T15:02:19.280] [INFO] db - Executing (default): UPDATE `Admins` SET `name`=?,`age`=?,`id`=?,`updated_at`=? WHERE `id` = ?
+[2021-11-09T15:02:21.773] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = '1';
+[2021-11-09T15:02:21.775] [INFO] db - Executing (default): UPDATE `Admins` SET `name`=?,`age`=?,`id`=?,`updated_at`=? WHERE `id` = ?
+[2021-11-09T15:04:21.053] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:04:32.244] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:05:17.650] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:05:37.873] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:05:47.695] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:09:34.697] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = '1';
+[2021-11-09T15:09:34.706] [INFO] db - Executing (default): UPDATE `Admins` SET `name`=?,`age`=?,`id`=?,`updated_at`=? WHERE `id` = ?
+[2021-11-09T15:10:02.087] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = '1';
+[2021-11-09T15:10:02.089] [INFO] db - Executing (default): UPDATE `Admins` SET `name`=?,`age`=?,`id`=?,`updated_at`=? WHERE `id` = ?
+[2021-11-09T15:14:04.025] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:14:34.866] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:15:36.416] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:18:25.972] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = '2';
+[2021-11-09T15:18:25.982] [INFO] db - Executing (default): UPDATE `Admins` SET `name`=?,`age`=?,`id`=?,`updated_at`=? WHERE `id` = ?
+[2021-11-09T15:18:27.408] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = '2';
+[2021-11-09T15:18:27.409] [INFO] db - Executing (default): UPDATE `Admins` SET `name`=?,`age`=?,`id`=?,`updated_at`=? WHERE `id` = ?
+[2021-11-09T15:18:28.550] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = '2';
+[2021-11-09T15:18:28.552] [INFO] db - Executing (default): UPDATE `Admins` SET `name`=?,`age`=?,`id`=?,`updated_at`=? WHERE `id` = ?
+[2021-11-09T15:19:15.554] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = '3';
+[2021-11-09T15:19:15.560] [INFO] db - Executing (default): UPDATE `Admins` SET `name`=?,`age`=?,`id`=?,`updated_at`=? WHERE `id` = ?
+[2021-11-09T15:19:17.392] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = '3';
+[2021-11-09T15:19:17.394] [INFO] db - Executing (default): UPDATE `Admins` SET `name`=?,`age`=?,`id`=?,`updated_at`=? WHERE `id` = ?
+[2021-11-09T15:19:53.542] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = '3';
+[2021-11-09T15:19:53.544] [INFO] db - Executing (default): UPDATE `Admins` SET `name`=?,`age`=?,`id`=?,`updated_at`=? WHERE `id` = ?
+[2021-11-09T15:19:54.758] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = '3';
+[2021-11-09T15:19:54.762] [INFO] db - Executing (default): UPDATE `Admins` SET `name`=?,`age`=?,`id`=?,`updated_at`=? WHERE `id` = ?
+[2021-11-09T15:22:01.245] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:23:09.875] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:24:12.571] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:26:27.536] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`name` = '黄莉' LIMIT 1;
+[2021-11-09T15:26:27.572] [INFO] db - Executing (default): INSERT INTO `Admins` (`id`,`name`,`age`,`created_at`,`updated_at`) VALUES (DEFAULT,?,?,?,?);
+[2021-11-09T15:27:22.035] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:28:22.454] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:28:46.902] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:29:41.529] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:29:59.248] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:31:24.118] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:33:01.022] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:35:28.511] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:35:42.570] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = 7;
+[2021-11-09T15:35:42.573] [INFO] db - Executing (default): DELETE FROM `Admins` WHERE `id` = 7
+[2021-11-09T15:38:40.934] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = 7;
+[2021-11-09T15:44:20.061] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:44:40.017] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:49:26.113] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:49:36.208] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = NaN;
+[2021-11-09T15:51:29.229] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:51:40.852] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:54:28.615] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:54:41.759] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:56:42.648] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:57:43.799] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:58:51.736] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T15:59:37.104] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = 1;
+[2021-11-09T16:00:05.368] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = 2;
+[2021-11-09T16:00:11.369] [INFO] db - Executing (default): SELECT `id`, `name`, `age`, `created_at`, `updated_at` FROM `Admins` AS `Admin` WHERE `Admin`.`id` = 5;
+[2021-11-09T16:03:46.868] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T16:04:16.123] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T16:04:33.325] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T16:04:52.538] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T16:05:17.241] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T16:05:43.352] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T16:06:03.879] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T16:06:23.882] [INFO] db - Executing (default): SELECT 1+1 AS result
+[2021-11-09T16:06:32.499] [INFO] db - Executing (default): SELECT 1+1 AS result

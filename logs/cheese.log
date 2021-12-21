@@ -1,0 +1,8 @@
+[2021-11-05T10:15:12.040] [INFO] default - msg msg
+[2021-11-05T10:15:32.421] [INFO] default - msg msg
+[2021-11-05T10:18:05.848] [INFO] default - msg msg
+[2021-11-05T16:13:44.606] [INFO] default - Executing (default): SELECT 1+1 AS result
+[2021-11-05T16:13:48.231] [INFO] default - Executing (default): SELECT 1+1 AS result
+[2021-11-05T16:14:06.266] [INFO] default - Executing (default): SELECT `id`, `created_at`, `updated_at` FROM `Admins` AS `Admin` LIMIT 1;
+[2021-11-05T16:16:01.315] [INFO] default - Executing (default): SELECT 1+1 AS result
+[2021-11-05T16:16:43.839] [INFO] default - Executing (default): SELECT 1+1 AS result
